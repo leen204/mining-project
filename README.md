@@ -1,3 +1,0 @@
-# mining-project
-
-HELLO
